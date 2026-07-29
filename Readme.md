@@ -1,215 +1,154 @@
-# 🚀 Ojasvee Gupta | Futuristic AI Developer Portfolio
+# 🚀 Ojasvee Gupta – AI & Full Stack Portfolio
 
-A modern, futuristic, and interactive portfolio showcasing my journey as a **Software Engineer**, **AI/ML Engineer**, and **Full Stack Developer**. Built with a premium UI inspired by modern developer portfolios, this website highlights my projects, technical skills, achievements, and passion for building impactful software.
+A modern futuristic developer portfolio showcasing my work in AI, Machine Learning, Backend Engineering, and Full Stack Development.
 
-## 🌐 Live Portfolio
+## 🌐 Live Demo
 
-🔗 **Portfolio:** https://futuristic-ai-develo-yf1k.bolt.host/
+👉 https://YOUR-VERCEL-URL.vercel.app
+
+---
+
+## 👨‍💻 About
+
+I'm **Ojasvee Gupta**, a Software Engineer passionate about building intelligent, scalable, and user-focused applications.
+
+My interests include:
+
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Backend Development
+- FastAPI
+- React
+- Cloud Computing
+- System Design
 
 ---
 
 ## ✨ Features
 
-- 🎨 Modern futuristic UI with glassmorphism
-- 🌌 Aurora gradients & animated backgrounds
-- ⚡ Smooth animations and micro-interactions
-- 📱 Fully responsive across all devices
-- 👨‍💻 Interactive project showcase
-- 📄 Resume download
-- 📬 Functional contact form
-- 🧠 Engineering philosophy section
-- 🚀 Why Hire Me section
-- 📈 Career journey timeline
-- 🏆 Certifications & achievements
-- 💡 Current learning & future goals
-- 🔗 Direct links to GitHub & LinkedIn
-- 🌙 Dark mode optimized
+- Modern futuristic UI
+- Responsive Design
+- Smooth Framer Motion animations
+- AI-themed interactive components
+- Projects showcase
+- Skills timeline
+- Achievements
+- Contact section
+- Resume download
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
+
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 - Framer Motion
 
-### Design
-- Glassmorphism
-- Responsive Design
-- CSS Animations
-- Gradient Effects
-- Modern UI/UX
-
-### Deployment
-- Bolt.new
-- Vercel / Bolt Hosting
-
----
-
-## 👨‍💻 About Me
-
-Hi, I'm **Ojasvee Gupta**, a Software Engineer passionate about building scalable applications powered by AI, modern backend systems, and full-stack technologies.
-
-I enjoy solving real-world problems through software, continuously learning emerging technologies, and creating products that combine clean engineering with excellent user experiences.
-
-My primary interests include:
-
-- Artificial Intelligence
-- Machine Learning
-- Backend Development
-- Full Stack Development
-- Cloud Computing
-- REST APIs
-- Large Language Models
-- System Design
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Lumipsyche — AI Mental Health Platform
-- DistilBERT-powered emotion detection
-- FastAPI backend
-- JWT Authentication
-- React frontend
-- Conversational memory
-
-**Repository**
-https://github.com/Ojasvee10/LUMIPSYCHE_AI_THERAPIST
-
----
-
-### 🤖 AI Powered Elderly Care System
-- AI-based fall detection
-- Twilio emergency alerts
-- Healthcare monitoring
-- SQLite optimization
-
-**Repository**
-https://github.com/Ojasvee10/elderlycareai
-
----
-
-### 🖐 AI Virtual Mouse
-- OpenCV
-- MediaPipe
-- Gesture Recognition
-- Computer Vision
-
-**Repository**
-https://github.com/Ojasvee10/ai_virtual_mouse
-
----
-
-### 📋 Team Task Manager
-- MERN Stack
-- JWT Authentication
-- MongoDB Atlas
-- Railway Deployment
-
-**Repository**
-https://github.com/Ojasvee10/team-task-manager
-
-**Live Demo**
-https://team-task-manager-five-taupe.vercel.app/
-
----
-
-## 💻 Skills
-
-### Languages
-- Python
-- C++
-- C
-- JavaScript
-- SQL
-
-### Frontend
-- React
-- HTML
-- CSS
-
 ### Backend
+
 - FastAPI
 - Flask
 - Node.js
 - Express.js
 
 ### AI / ML
-- LLMs
-- Prompt Engineering
-- NLP
-- BERT
-- OpenAI API
 
-### Databases
+- OpenAI API
+- DistilBERT
+- NLP
+- Prompt Engineering
+
+### Database
+
 - MongoDB
 - MySQL
 - SQLite
 
-### Cloud
+### Cloud & Tools
+
 - AWS
 - Google Cloud
-
-### Tools
 - Git
 - GitHub
 - Docker
 - Postman
-- VS Code
 
 ---
 
-## 🏆 Achievements
+## 📌 Featured Projects
 
-- Solved **350+ DSA Problems**
-- Salesforce Agentblazer Champion
-- HackerRank Gold Badge (Python)
-- Infosys Springboard Pragati Cohort
-- Event Manager — Navrang Club
+### 🧠 Lumipsyche
 
----
+AI-powered Mental Health Platform built using DistilBERT, FastAPI and React.
 
-## 📫 Connect With Me
+**Tech**
 
-📧 Email:
-**ojasveegupta10@gmail.com**
-
-💼 LinkedIn:
-https://www.linkedin.com/in/ojasvee-gupta/
-
-💻 GitHub:
-https://github.com/Ojasvee10
-
-🌐 Portfolio:
-https://futuristic-ai-develo-yf1k.bolt.host/
+- FastAPI
+- React
+- DistilBERT
+- JWT
+- NLP
 
 ---
 
-## 🚀 Getting Started
+### 👴 AI Elderly Care System
 
-Clone the repository
+AI healthcare platform with fall detection and emergency SMS alerts.
+
+**Tech**
+
+- Python
+- OpenCV
+- SQLite
+- Twilio
+
+---
+
+### 🖐 AI Virtual Mouse
+
+Computer Vision application using MediaPipe and OpenCV.
+
+**Tech**
+
+- Python
+- MediaPipe
+- OpenCV
+
+---
+
+### 📋 Team Task Manager
+
+Role-based task management platform.
+
+**Tech**
+
+- React
+- Node.js
+- Express
+- MongoDB
+- JWT
+
+---
+
+## 🚀 Installation
 
 ```bash
-git clone <repository-url>
-```
+git clone https://github.com/Ojasvee10/Ojasvee-s-Portfolio.git
 
-Install dependencies
+cd Ojasvee-s-Portfolio
 
-```bash
 npm install
-```
 
-Start the development server
-
-```bash
 npm run dev
 ```
 
-Build for production
+---
+
+## 📦 Build
 
 ```bash
 npm run build
@@ -217,18 +156,26 @@ npm run build
 
 ---
 
-## 📄 License
+## 📧 Contact
 
-This project is open source and available under the MIT License.
+**Ojasvee Gupta**
+
+Email
+
+ojasveegupta10@gmail.com
+
+LinkedIn
+
+https://linkedin.com/in/ojasvee-gupta/
+
+GitHub
+
+https://github.com/Ojasvee10
 
 ---
 
-## ⭐ Support
+## ⭐ If you like this project
 
-If you like this project, consider giving it a ⭐ on GitHub.
+Please consider giving it a ⭐ on GitHub.
 
-It helps others discover my work and motivates me to keep building awesome projects!
-
----
-
-### Made with ❤️ by Ojasvee Gupta
+It helps support my work and motivates me to build more AI-powered applications.
