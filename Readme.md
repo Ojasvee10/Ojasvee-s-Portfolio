@@ -1,40 +1,39 @@
 # 🚀 Ojasvee Gupta – AI & Full Stack Portfolio
 
-A modern futuristic developer portfolio showcasing my work in AI, Machine Learning, Backend Engineering, and Full Stack Development.
+A modern, futuristic developer portfolio showcasing my expertise in AI, Machine Learning, Backend Engineering, and Full Stack Development.
 
-## 🌐 Live Demo
+## 🌐 Live Portfolio
 
-👉 [https://YOUR-VERCEL-URL.vercel.app](https://ojasvee-s-portfolio.vercel.app/)
+🔗 **Portfolio:** https://ojasvee-s-portfolio.vercel.app/
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-I'm **Ojasvee Gupta**, a Software Engineer passionate about building intelligent, scalable, and user-focused applications.
+Hi, I'm **Ojasvee Gupta**, a passionate **Software Engineer**, **AI/ML Engineer**, and **Full Stack Developer** who enjoys building scalable applications, intelligent systems, and modern user experiences.
 
-My interests include:
+I specialize in:
 
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Backend Development
-- FastAPI
-- React
-- Cloud Computing
-- System Design
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Large Language Models (LLMs)
+- ⚡ FastAPI & Backend Development
+- 🌐 React & Full Stack Development
+- ☁️ Cloud Computing
+- 🏗️ Scalable REST APIs
 
 ---
 
 ## ✨ Features
 
-- Modern futuristic UI
-- Responsive Design
-- Smooth Framer Motion animations
-- AI-themed interactive components
-- Projects showcase
-- Skills timeline
-- Achievements
-- Contact section
-- Resume download
+- 🚀 Modern futuristic UI
+- 📱 Fully responsive design
+- ✨ Smooth Framer Motion animations
+- 🤖 AI-themed interactive interface
+- 💼 Project showcase
+- 🛠 Skills & technologies section
+- 🏆 Achievements & certifications
+- 📄 Resume download
+- 📬 Contact section
 
 ---
 
@@ -55,12 +54,13 @@ My interests include:
 - Node.js
 - Express.js
 
-### AI / ML
+### AI / Machine Learning
 
 - OpenAI API
 - DistilBERT
 - NLP
 - Prompt Engineering
+- LLM Applications
 
 ### Database
 
@@ -68,87 +68,101 @@ My interests include:
 - MySQL
 - SQLite
 
-### Cloud & Tools
+### Cloud & DevOps
 
 - AWS
 - Google Cloud
+- Docker
 - Git
 - GitHub
-- Docker
 - Postman
 
 ---
 
-## 📌 Featured Projects
+# 💼 Featured Projects
 
-### 🧠 Lumipsyche
+## 🧠 Lumipsyche
 
-AI-powered Mental Health Platform built using DistilBERT, FastAPI and React.
+An AI-powered Mental Health Platform built using DistilBERT, FastAPI, and React with conversational AI and secure JWT authentication.
 
-**Tech**
+**Tech Used**
 
+- DistilBERT
 - FastAPI
 - React
-- DistilBERT
 - JWT
 - NLP
 
 ---
 
-### 👴 AI Elderly Care System
+## 👴 AI Elderly Care System
 
-AI healthcare platform with fall detection and emergency SMS alerts.
+An intelligent healthcare platform featuring fall detection, emergency SMS alerts using Twilio, and optimized patient data management.
 
-**Tech**
+**Tech Used**
 
 - Python
 - OpenCV
 - SQLite
-- Twilio
+- Twilio API
 
 ---
 
-### 🖐 AI Virtual Mouse
+## 🖐 AI Virtual Mouse
 
-Computer Vision application using MediaPipe and OpenCV.
+A computer vision application that enables mouse control using hand gestures through MediaPipe and OpenCV.
 
-**Tech**
+**Tech Used**
 
 - Python
-- MediaPipe
 - OpenCV
+- MediaPipe
 
 ---
 
-### 📋 Team Task Manager
+## 📋 Team Task Manager
 
-Role-based task management platform.
+A role-based MERN stack collaboration platform with secure authentication and scalable REST APIs.
 
-**Tech**
+**Tech Used**
 
 - React
 - Node.js
-- Express
+- Express.js
 - MongoDB
 - JWT
 
 ---
 
-## 🚀 Installation
+# 🚀 Getting Started
+
+## Clone the repository
 
 ```bash
 git clone https://github.com/Ojasvee10/Ojasvee-s-Portfolio.git
+```
 
+## Navigate to the project
+
+```bash
 cd Ojasvee-s-Portfolio
+```
 
+## Install dependencies
+
+```bash
 npm install
+```
 
+## Run locally
+
+```bash
 npm run dev
 ```
 
 ---
 
-## 📦 Build
+# 📦 Build for Production
 
 ```bash
 npm run build
@@ -156,26 +170,48 @@ npm run build
 
 ---
 
-## 📧 Contact
+# 📂 Project Structure
 
-**Ojasvee Gupta**
+```
+src/
+ ├── components/
+ ├── sections/
+ ├── data/
+ ├── hooks/
+ ├── styles/
+ └── assets/
 
-Email
-
-ojasveegupta10@gmail.com
-
-LinkedIn
-
-https://linkedin.com/in/ojasvee-gupta/
-
-GitHub
-
-https://github.com/Ojasvee10
+public/
+```
 
 ---
 
-## ⭐ If you like this project
+# 📬 Contact
 
-Please consider giving it a ⭐ on GitHub.
+### 👤 Ojasvee Gupta
+
+📧 Email  
+**ojasveegupta10@gmail.com**
+
+🌐 Portfolio  
+**https://ojasvee-s-portfolio.vercel.app/**
+
+💼 LinkedIn  
+**https://www.linkedin.com/in/ojasvee-gupta/**
+
+💻 GitHub  
+**https://github.com/Ojasvee10**
+
+---
+
+# ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
 It helps support my work and motivates me to build more AI-powered applications.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
