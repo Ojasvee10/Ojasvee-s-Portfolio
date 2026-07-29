@@ -1,168 +1,215 @@
-# 🚀 Ojasvee Gupta – AI & Full Stack Portfolio
+# 🚀 Ojasvee Gupta | Futuristic AI Developer Portfolio
 
-A modern, futuristic developer portfolio showcasing my expertise in AI, Machine Learning, Backend Engineering, and Full Stack Development.
+A modern, futuristic, and interactive portfolio showcasing my journey as a **Software Engineer**, **AI/ML Engineer**, and **Full Stack Developer**. Built with a premium UI inspired by modern developer portfolios, this website highlights my projects, technical skills, achievements, and passion for building impactful software.
 
 ## 🌐 Live Portfolio
 
-🔗 **Portfolio:** https://ojasvee-s-portfolio.vercel.app/
-
----
-
-## 👨‍💻 About Me
-
-Hi, I'm **Ojasvee Gupta**, a passionate **Software Engineer**, **AI/ML Engineer**, and **Full Stack Developer** who enjoys building scalable applications, intelligent systems, and modern user experiences.
-
-I specialize in:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Large Language Models (LLMs)
-- ⚡ FastAPI & Backend Development
-- 🌐 React & Full Stack Development
-- ☁️ Cloud Computing
-- 🏗️ Scalable REST APIs
+🔗 **Portfolio:** https://futuristic-ai-develo-yf1k.bolt.host/
 
 ---
 
 ## ✨ Features
 
-- 🚀 Modern futuristic UI
-- 📱 Fully responsive design
-- ✨ Smooth Framer Motion animations
-- 🤖 AI-themed interactive interface
-- 💼 Project showcase
-- 🛠 Skills & technologies section
-- 🏆 Achievements & certifications
+- 🎨 Modern futuristic UI with glassmorphism
+- 🌌 Aurora gradients & animated backgrounds
+- ⚡ Smooth animations and micro-interactions
+- 📱 Fully responsive across all devices
+- 👨‍💻 Interactive project showcase
 - 📄 Resume download
-- 📬 Contact section
+- 📬 Functional contact form
+- 🧠 Engineering philosophy section
+- 🚀 Why Hire Me section
+- 📈 Career journey timeline
+- 🏆 Certifications & achievements
+- 💡 Current learning & future goals
+- 🔗 Direct links to GitHub & LinkedIn
+- 🌙 Dark mode optimized
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
-
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 - Framer Motion
 
-### Backend
+### Design
+- Glassmorphism
+- Responsive Design
+- CSS Animations
+- Gradient Effects
+- Modern UI/UX
 
+### Deployment
+- Bolt.new
+- Vercel / Bolt Hosting
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Ojasvee Gupta**, a Software Engineer passionate about building scalable applications powered by AI, modern backend systems, and full-stack technologies.
+
+I enjoy solving real-world problems through software, continuously learning emerging technologies, and creating products that combine clean engineering with excellent user experiences.
+
+My primary interests include:
+
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- Full Stack Development
+- Cloud Computing
+- REST APIs
+- Large Language Models
+- System Design
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Lumipsyche — AI Mental Health Platform
+- DistilBERT-powered emotion detection
+- FastAPI backend
+- JWT Authentication
+- React frontend
+- Conversational memory
+
+**Repository**
+https://github.com/Ojasvee10/LUMIPSYCHE_AI_THERAPIST
+
+---
+
+### 🤖 AI Powered Elderly Care System
+- AI-based fall detection
+- Twilio emergency alerts
+- Healthcare monitoring
+- SQLite optimization
+
+**Repository**
+https://github.com/Ojasvee10/elderlycareai
+
+---
+
+### 🖐 AI Virtual Mouse
+- OpenCV
+- MediaPipe
+- Gesture Recognition
+- Computer Vision
+
+**Repository**
+https://github.com/Ojasvee10/ai_virtual_mouse
+
+---
+
+### 📋 Team Task Manager
+- MERN Stack
+- JWT Authentication
+- MongoDB Atlas
+- Railway Deployment
+
+**Repository**
+https://github.com/Ojasvee10/team-task-manager
+
+**Live Demo**
+https://team-task-manager-five-taupe.vercel.app/
+
+---
+
+## 💻 Skills
+
+### Languages
+- Python
+- C++
+- C
+- JavaScript
+- SQL
+
+### Frontend
+- React
+- HTML
+- CSS
+
+### Backend
 - FastAPI
 - Flask
 - Node.js
 - Express.js
 
-### AI / Machine Learning
-
-- OpenAI API
-- DistilBERT
-- NLP
+### AI / ML
+- LLMs
 - Prompt Engineering
-- LLM Applications
+- NLP
+- BERT
+- OpenAI API
 
-### Database
-
+### Databases
 - MongoDB
 - MySQL
 - SQLite
 
-### Cloud & DevOps
-
+### Cloud
 - AWS
 - Google Cloud
-- Docker
+
+### Tools
 - Git
 - GitHub
+- Docker
 - Postman
+- VS Code
 
 ---
 
-# 💼 Featured Projects
+## 🏆 Achievements
 
-## 🧠 Lumipsyche
-
-An AI-powered Mental Health Platform built using DistilBERT, FastAPI, and React with conversational AI and secure JWT authentication.
-
-**Tech Used**
-
-- DistilBERT
-- FastAPI
-- React
-- JWT
-- NLP
+- Solved **350+ DSA Problems**
+- Salesforce Agentblazer Champion
+- HackerRank Gold Badge (Python)
+- Infosys Springboard Pragati Cohort
+- Event Manager — Navrang Club
 
 ---
 
-## 👴 AI Elderly Care System
+## 📫 Connect With Me
 
-An intelligent healthcare platform featuring fall detection, emergency SMS alerts using Twilio, and optimized patient data management.
+📧 Email:
+**ojasveegupta10@gmail.com**
 
-**Tech Used**
+💼 LinkedIn:
+https://www.linkedin.com/in/ojasvee-gupta/
 
-- Python
-- OpenCV
-- SQLite
-- Twilio API
+💻 GitHub:
+https://github.com/Ojasvee10
 
----
-
-## 🖐 AI Virtual Mouse
-
-A computer vision application that enables mouse control using hand gestures through MediaPipe and OpenCV.
-
-**Tech Used**
-
-- Python
-- OpenCV
-- MediaPipe
+🌐 Portfolio:
+https://futuristic-ai-develo-yf1k.bolt.host/
 
 ---
 
-## 📋 Team Task Manager
+## 🚀 Getting Started
 
-A role-based MERN stack collaboration platform with secure authentication and scalable REST APIs.
-
-**Tech Used**
-
-- React
-- Node.js
-- Express.js
-- MongoDB
-- JWT
-
----
-
-# 🚀 Getting Started
-
-## Clone the repository
+Clone the repository
 
 ```bash
-git clone https://github.com/Ojasvee10/Ojasvee-s-Portfolio.git
+git clone <repository-url>
 ```
 
-## Navigate to the project
-
-```bash
-cd Ojasvee-s-Portfolio
-```
-
-## Install dependencies
+Install dependencies
 
 ```bash
 npm install
 ```
 
-## Run locally
+Start the development server
 
 ```bash
 npm run dev
 ```
 
----
-
-# 📦 Build for Production
+Build for production
 
 ```bash
 npm run build
@@ -170,48 +217,18 @@ npm run build
 
 ---
 
-# 📂 Project Structure
-
-```
-src/
- ├── components/
- ├── sections/
- ├── data/
- ├── hooks/
- ├── styles/
- └── assets/
-
-public/
-```
-
----
-
-# 📬 Contact
-
-### 👤 Ojasvee Gupta
-
-📧 Email  
-**ojasveegupta10@gmail.com**
-
-🌐 Portfolio  
-**https://ojasvee-s-portfolio.vercel.app/**
-
-💼 LinkedIn  
-**https://www.linkedin.com/in/ojasvee-gupta/**
-
-💻 GitHub  
-**https://github.com/Ojasvee10**
-
----
-
-# ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
-
-It helps support my work and motivates me to build more AI-powered applications.
-
----
-
 ## 📄 License
 
-This project is open-source and available under the **MIT License**.
+This project is open source and available under the MIT License.
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
+
+It helps others discover my work and motivates me to keep building awesome projects!
+
+---
+
+### Made with ❤️ by Ojasvee Gupta

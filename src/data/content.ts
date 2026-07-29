@@ -204,7 +204,7 @@ export const timeline: TimelineItem[] = [
     title: 'B.Tech, Computer Science & Engineering',
     org: 'Pranveer Singh Institute of Technology (AKTU), Kanpur',
     description:
-      'CGPA: 7.56/10. Specializing in AI and full-stack engineering — built production-grade AI systems and solved 350+ DSA problems across LeetCode, GeeksforGeeks, and HackerRank.',
+      'Focused on AI, backend engineering, and full-stack development while building production-grade AI applications and solving 350+ DSA problems across LeetCode, GeeksforGeeks, and HackerRank.',
     type: 'education',
     icon: Sparkles,
   },
