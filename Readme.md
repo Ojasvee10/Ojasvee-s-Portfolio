@@ -4,7 +4,7 @@ A modern, futuristic, and interactive portfolio showcasing my journey as a **Sof
 
 ## 🌐 Live Portfolio
 
-🔗 **Portfolio:** https://futuristic-ai-develo-yf1k.bolt.host/
+🔗 **Portfolio:** https://ojasvee-s-portfolio.vercel.app/
 
 ---
 
